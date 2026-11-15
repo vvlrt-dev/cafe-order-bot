@@ -1,0 +1,4 @@
+# The bot itself has no dependencies.
+pytest>=8
+# Only for tools/render_demo.py:
+# playwright>=1.40

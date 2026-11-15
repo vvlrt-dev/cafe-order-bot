@@ -1,0 +1,33 @@
+{
+  "cafe_name": "Kazan & Tandoor",
+  "currency": "$",
+  "categories": [
+    {
+      "id": "mains",
+      "title": "Mains",
+      "items": [
+        {"id": "plov", "name": "Tashkent plov", "price": 9.5, "description": "Rice, carrots, lamb and chickpeas from the kazan."},
+        {"id": "lagman", "name": "Lagman", "price": 8.0, "description": "Hand-pulled noodles in beef and vegetable broth."},
+        {"id": "shashlik", "name": "Lamb shashlik", "price": 11.0, "description": "Two skewers with onions and fresh bread."}
+      ]
+    },
+    {
+      "id": "bakery",
+      "title": "Tandoor bakery",
+      "items": [
+        {"id": "samsa", "name": "Beef samsa", "price": 3.0, "description": "Flaky pastry baked in the clay tandoor."},
+        {"id": "pumpkin_samsa", "name": "Pumpkin samsa", "price": 2.8, "description": "Vegetarian, with onion and black pepper."},
+        {"id": "non", "name": "Tandoor bread", "price": 1.5, "description": "Round flatbread, fresh every hour."}
+      ]
+    },
+    {
+      "id": "drinks",
+      "title": "Drinks",
+      "items": [
+        {"id": "green_tea", "name": "Green tea pot", "price": 2.5, "description": "For one or two people."},
+        {"id": "compote", "name": "Fruit compote", "price": 2.0, "description": "Homemade, served chilled."},
+        {"id": "ayran", "name": "Ayran", "price": 2.2, "description": "Salted yogurt drink."}
+      ]
+    }
+  ]
+}
